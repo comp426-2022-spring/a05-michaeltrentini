@@ -1,4 +1,4 @@
-var i = 41
+var i = 42
 // Focus div based on nav button click
 
 // Flip one coin and show coin image to match result when button clicked
