@@ -1,3 +1,4 @@
+var i = 0
 // Require minimist
 const args = require('minimist')(process.argv.slice(2))
 // Define app using express
